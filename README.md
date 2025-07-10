@@ -8,7 +8,6 @@ Your AI-powered study partner for mastering medical knowledge. This app helps yo
 
 -----
 
-*(Pro-tip: Record a short GIF of your app in action and replace the link above to make this even more eye-catching\!)*
 
 ## 🧐 About The Project
 
