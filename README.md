@@ -5,6 +5,8 @@
 
 Your AI-powered study partner for mastering medical knowledge. This app helps you quickly get answers and explanations on complex medical topics, powered by Google's Gemini.
 
+![Image](https://github.com/user-attachments/assets/e424454d-860b-4100-a94b-282aa0cda8a6)
+
 
 -----
 
