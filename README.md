@@ -31,4 +31,4 @@ This project was created to serve as an intelligent, interactive study tool for 
 
 ## ☁️ Deployment
 
-This application is deployed on [Vercel](https://vercel.com/). The live version can be accessed here: [https://med-study-buddy.vercel.app/](https://www.google.com/search?q=https://med-study-buddy.vercel.app/)
+This application is deployed on [Vercel](https://vercel.com/). The live version can be accessed here: [https://med-study-buddy.vercel.app/](https://med-study-buddy.vercel.app/)
