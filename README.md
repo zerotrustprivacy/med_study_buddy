@@ -24,8 +24,7 @@ This project was created to serve as an intelligent, interactive study tool for 
 
 ## 🛠️ Built With
 
-  * **Python**
-  * **Streamlit** - For the web application framework
+  * **Typescript**
   * **Google Gemini API** - For the generative AI capabilities
 
 
